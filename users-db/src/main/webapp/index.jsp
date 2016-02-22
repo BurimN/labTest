@@ -18,7 +18,7 @@
 			<a href="#">Кисель Анастасия</a>
 		</li>
 		<li>
-			<a href="#">Бадун Павел</a>
+			<a href="/students/pavel.html">Бадун Павел</a>
 		</li>
 	</ul>
 
