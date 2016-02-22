@@ -12,7 +12,7 @@
 
 	<ul>
 		<li>
-			<a href="natali.html">Бурим Наталья</a>
+			<a href="students/natali.html">Бурим Наталья</a>
 		</li>
 		<li>
 			<a href="students/Kisel.html">Кисель Анастасия</a>
